@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/327894410829345822/bd0ea2e64c0749e7a167e2f595b042a8/artifacts
+end_time: 1746625030140
+entry_point_name: ''
+experiment_id: '327894410829345822'
+lifecycle_stage: active
+run_id: bd0ea2e64c0749e7a167e2f595b042a8
+run_name: adorable-eel-770
+run_uuid: bd0ea2e64c0749e7a167e2f595b042a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625028003
+status: 3
+tags: []
+user_id: laythrejjo

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/928266067183905030/75d050f98a844013a2780b7149eddde7/artifacts
+end_time: 1746625031851
+entry_point_name: ''
+experiment_id: '928266067183905030'
+lifecycle_stage: active
+run_id: 75d050f98a844013a2780b7149eddde7
+run_name: capricious-yak-274
+run_uuid: 75d050f98a844013a2780b7149eddde7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746625030161
+status: 3
+tags: []
+user_id: laythrejjo

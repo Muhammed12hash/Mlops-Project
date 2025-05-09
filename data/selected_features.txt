@@ -1,0 +1,12 @@
+tenure
+OnlineSecurity
+TechSupport
+Contract
+MonthlyCharges
+TotalCharges
+tenure_tenure
+tenure_MonthlyCharges
+tenure_TotalCharges
+MonthlyCharges_MonthlyCharges
+MonthlyCharges_TotalCharges
+TotalCharges_TotalCharges
