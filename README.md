@@ -182,6 +182,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Mohamed Rejjo - mohamed.rejjo@bahcesehir.edu.tr
 
-Project Link: [https://github.com/yourusername/mlops-project](https://github.com/yourusername/mlops-project) 
+Project Link: [https://github.com/Muhammed12hash/Mlops-Project](https://github.com/Muhammed12hash/Mlops-Project) 
